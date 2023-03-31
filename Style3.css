@@ -1,0 +1,33 @@
+a{color: blanchedalmond;
+    text-decoration: none;}
+    .right-arrow{color: blanchedalmond;}
+    .left-arrow{color: blanchedalmond;}
+body {background-image: url("images/6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;}
+.daohang{text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -55px;
+margin-left: 0;
+background-color: rgb(21, 73, 115);
+height: 30px;
+margin-right: 768px;}
+.Daohang{text-align: center;
+    margin-top: -30px;
+background-color: rgb(21, 73, 115);
+height: 30px;
+margin-left: 768px;
+display: flex;
+  align-items: center;
+  justify-content: center;}
+h1{background-image: url("images/16.jpg");
+background-size: 341px;
+background-repeat: no-repeat;
+background-position: center;}
+.footer{background-color: rgb(21, 73, 115);
+    text-align: center;
+    color: beige;
+    height: 18px;
+    font-size: smaller;}

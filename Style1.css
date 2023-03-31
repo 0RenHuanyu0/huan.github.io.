@@ -1,0 +1,44 @@
+h1{text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 30px;
+    height: 73px;
+    color: rgb(48, 48, 48);
+    background-color: rgb(214, 203, 168);}
+body {background-image: url("images/8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;}
+.table{width: 210px;
+            background-image: url("images/18.jpg");
+        background-size: cover;
+        padding-top: 15px;
+    margin-top: 10px;
+box-shadow: 7px 7px 7px rgb(228, 207, 142);
+margin-right: 10px;}
+#mingyi {border-collapse: collapse;
+    width: 550px;
+    margin-top: 30px;
+    float:right;
+    margin-right: 5px;
+    margin-left: 10px;
+margin-top: 30px;
+margin-bottom: 20px;}
+    table.double-border{
+        box-shadow:
+          0 0 0 6px rgb(228, 207, 142),
+          0 0 0 14px rgb(214, 203, 168);}
+.cell{text-align: center;
+    vertical-align: middle;
+width: 20px;
+height: 35px;}
+tr.cell:nth-child(even) {
+    background-color: rgb(210, 186, 167);}
+    tr.cell:nth-child(odd) {
+        background-color: rgb(208, 207, 219);}
+.footer{background-color: rgb(103, 34, 35);
+            text-align: center;
+            color: beige;
+            height: 18px;
+            font-size: smaller;
+        margin-top: 310px;}

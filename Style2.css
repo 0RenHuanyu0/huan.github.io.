@@ -1,0 +1,22 @@
+a{color: blanchedalmond;
+    text-decoration: none;}
+    .right-arrow{color: blanchedalmond;}
+    .left-arrow{color: blanchedalmond;}
+body {margin: 0;
+    background-image: url("images/7.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+    background-position: bottom;
+background-position-y: 85px;}
+.daohang{text-align: left;
+    margin-top: -13px;
+margin-left: 80px;}
+h1{background-image: url("images/1.jpg");
+background-size: 330px;
+background-repeat: no-repeat;
+background-position: center;}
+.footer{background-color: rgb(103, 34, 35);
+    text-align: center;
+    color: beige;
+    height: 18px;
+    font-size: smaller;}
